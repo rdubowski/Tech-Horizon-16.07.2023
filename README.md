@@ -10,6 +10,7 @@
 ### Custom tools :
 1. [How to build your own code reviewer](https://www.packtpub.com/article-hub/build-a-project-that-automates-your-code-review)
 2. [Use created CI/CD tool](https://github.com/mattzcarey/code-review-gpt)
+3. [Watermelon opensource copilot CI tool](https://www.watermelontools.com/)
 ### Copilot security concerns:
 1. https://arxiv.org/abs/2310.02059?source=rss----e58cffa84abb---4
 2. https://arxiv.org/abs/2108.09293)
